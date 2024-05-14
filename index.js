@@ -7,7 +7,11 @@ const profile = {
   education: {
     degree: 'Bachelor of Science in Information Technology (BSIT)',
     year: '2nd Year Student (2023-2024)',
-    university: 'University of Southern Philippines Foundation (USPF)'
+    university: 'University of Southern Philippines Foundation (USPF)',
+    highschool: 'Apas National High School',
+    yearHighSchool: '2015-2018',
+    elementary: 'Camp Lapu-Lapu',
+    yearElementary: '2009-2015'
   },
   skills: [
     'Understanding of UI/UX principles and design patterns',
@@ -21,9 +25,9 @@ const profile = {
     'Led a project to optimize website performance by implementing lazy loading techniques, image compression, and code splitting, resulting in significant improvements in page loading times.'
   ],
   awards: [
-    'Dean\'s List, USPF',
+    "Dean's List, USPF",
     '1st place in CCS days',
-    'mvp'
+    'MVP'
   ],
   personalInfo: {
     name: 'Lizaroy A. Pingoy',
