@@ -22,7 +22,8 @@ const profile = {
   ],
   awards: [
     'Dean\'s List, USPF',
-    '1st place in CCS days'
+    '1st place in CCS days',
+    'mvp'
   ],
   personalInfo: {
     name: 'Lizaroy A. Pingoy',
