@@ -7,7 +7,11 @@ const profile = {
   education: {
     degree: 'Bachelor of Science in Information Technology (BSIT)',
     year: '2nd Year Student (2023-2024)',
-    university: 'University of Southern Philippines Foundation (USPF)'
+    university: 'University of Southern Philippines Foundation (USPF)',
+    highschool: 'Apas National High School',
+    year: '2015-2018',
+    elementary: 'camp lapu-lapu',
+    yearele: '2009-2015'
   },
   skills: [
     'Understanding of UI/UX principles and design patterns',
